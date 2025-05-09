@@ -169,3 +169,12 @@ In conclusion, Model-Context-Protocol bridges the gap between *AI reasoning* and
 5. [https://decodingdatascience.com/the-model-context-protocol-mcp-revolution/](https://decodingdatascience.com/the-model-context-protocol-mcp-revolution/)
 6. [https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/introducing-model-context-protocol-mcp-in-copilot-studio-simplified-integration-with-ai-apps-and-agents/](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/introducing-model-context-protocol-mcp-in-copilot-studio-simplified-integration-with-ai-apps-and-agents/)
 
+### Footnote
+
+This article has been created with the great help of [Microsoft Copilot](https://copilot.microsoft.com/)'s [Deep Research](https://support.microsoft.com/en-au/topic/conversation-modes-quick-think-deeper-deep-research-575efe12-eb34-4437-885a-440f7623cffb) using the following prompt:
+
+```markdown
+Explain what Model-Context-Protocol (MCP) is (MCP in the context of GenAI agents) using simple and straightforward language. Provide a clear and direct explanation of the concepts, along with educational context. Include various examples and comparisons to enhance understanding. Additionally, provide a detailed case study example titled "Using MCP to extend GitHub Copilot Agent." Ensure the case study is thoroughly researched and includes a guided example. Focus on making the explanation comprehensive yet easy to read and follow. Use Markdown to format the content for better readability, including headings, bullet points, and numbered lists.
+```
+
+
