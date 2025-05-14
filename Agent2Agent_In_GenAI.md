@@ -169,14 +169,14 @@ These technical pieces form the foundation of an A2A system: Agent Cards for dis
 
 ## References
 
-* Y. Arenas & B. Brekelmans, *“Empowering multi-agent apps with the open Agent2Agent (A2A) protocol”*, Microsoft Cloud Blog, May 7, 2025.
-* Rao Surapaneni et al., *“A new era of Agent Interoperability”*, Google Developers Blog, Apr. 9, 2025.
-* *Agent2Agent Protocol (A2A) Documentation*, Google A2A Project (spec and tutorials), 2025.
-* L. Mikami, *“What is The Agent2Agent Protocol (A2A) and Why You Must Learn It Now”*, HuggingFace Blog, Apr. 2025.
-* M. Kasthuri & D. Murugesan, *“Multi-Agent Communication Protocols in Generative AI”*, Architecture & Governance Magazine, May 2025.
-* Google Cloud, *“101 real-world generative AI use cases from industry leaders”*, Apr. 2025 (includes note on Salesforce using A2A).
-* BytePlus Editorial Team, *“A2A protocol enterprise implementation case studies”*, Apr. 25, 2025.
-* S. Falconer, *“AI Agents are Microservices with Brains”*, Medium, Mar. 2025 (discussing agent vs microservice patterns).
+* [Y. Arenas & B. Brekelmans, *“Empowering multi-agent apps with the open Agent2Agent (A2A) protocol”*, Microsoft Cloud Blog, May 7, 2025.](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/05/07/empowering-multi-agent-apps-with-the-open-agent2agent-a2a-protocol/)
+* [Rao Surapaneni et al., *“A new era of Agent Interoperability”*, Google Developers Blog, Apr. 9, 2025.](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+* [*Agent2Agent Protocol (A2A) Documentation*, Google A2A Project (spec and tutorials), 2025.](https://google.github.io/A2A/topics/what-is-a2a/)
+* [L. Mikami, *“What is The Agent2Agent Protocol (A2A) and Why You Must Learn It Now”*, HuggingFace Blog, Apr. 2025.](https://huggingface.co/blog/lynn-mikami/agent2agent)
+* [M. Kasthuri & D. Murugesan, *“Multi-Agent Communication Protocols in Generative AI”*, Architecture & Governance Magazine, May 2025.](https://www.architectureandgovernance.com/uncategorized/multi-agent-communication-protocols-in-generative-ai-and-agentic-ai-mcp-and-a2a-protocols/)
+* [Google Cloud, *“101 real-world generative AI use cases from industry leaders”*, Apr. 2025 (includes note on Salesforce using A2A).](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders)
+* [BytePlus Editorial Team, *“A2A protocol enterprise implementation case studies”*, Apr. 25, 2025.](https://www.byteplus.com/en/topic/551208?title=a2a-protocol-enterprise-implementation-case-studies)
+* [Sean Falconer, *“AI Agents are Microservices with Brains”*, Medium, Mar. 2025 (discussing agent vs microservice patterns).](https://seanfalconer.medium.com/ai-agents-are-microservices-with-brains-ccb42d1504d7)
 
 ### Footnote
 
